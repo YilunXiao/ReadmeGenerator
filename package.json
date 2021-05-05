@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Generates README files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YilunXiao/ReadmeGenerator.git"
+  },
+  "author": "Yilun Xiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YilunXiao/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/YilunXiao/ReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
