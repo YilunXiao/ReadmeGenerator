@@ -56,6 +56,7 @@ ${repo}
 
 ## DEMO
 
+Here is a short demo on how the application works.
 ![plot](${demo})
 
 ## Feedback
